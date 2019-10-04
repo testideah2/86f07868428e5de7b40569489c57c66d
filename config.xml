@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "store.goldengal.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. goldengal.store</name>
+    <name>Дрянная Девчонка</name>
 
     <description>
         Интернет-магазин ювелирных украшений ручной работы «Дрянная девчонка»
@@ -28,7 +28,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#000000" />
+    <preference name="SplashScreenSpinnerColor" value="#FFFFFF" />
 
 
     <platform name="android">
@@ -39,10 +39,10 @@
         <icon src="res/android/icon/810ad14b65a57406c357121a3b8f48bb.png" density="xxhdpi" />
         <icon src="res/android/icon/40764e8edb80bdf0563842ce0ae4b7a8.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/6e56ee85704d582d3647eb75e353ca04.png" density="port-hdpi"/>
-        <splash src="res/android/screen/414e0771200503fc54cc7ce81459667d.png" density="port-ldpi"/>
-        <splash src="res/android/screen/1122cbd248000cd5e6558b14de9cec76.png" density="port-mdpi"/>
-        <splash src="res/android/screen/59aa94533e19eba61698edf5f3673018.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/afe123d805f9a39d5427c809e6a85ecd.png" density="port-hdpi"/>
+        <splash src="res/android/screen/79302e117905cc48af59c72341dc2584.png" density="port-ldpi"/>
+        <splash src="res/android/screen/c008823cb1951b7e792eccc0b066739e.png" density="port-mdpi"/>
+        <splash src="res/android/screen/36884252760a2136df12c8e3f37615ba.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
@@ -61,12 +61,12 @@
         <icon src="res/ios/icon/01cf0d8607af90e5809cbd8d2b824ea5.png" width="87" height="87" />
         <icon src="res/ios/icon/9fceb3d979b0b84e58b16b1cf91bdccd.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/cb1991678e756c1e2490780c372f3ed4.png" />
-        <splash src="res/ios/screen/df219e82d376d7627ee760668da60e59.png" />
-        <splash src="res/ios/screen/46e49db4ff73f15c4e08cbf59c5ce14d.png" />
-        <splash src="res/ios/screen/304e63b226ade77097170b58884a1881.png" />
-        <splash src="res/ios/screen/d75930a01941f2e704fa10357af894ff.png" />
-        <splash src="res/ios/screen/cee0f474df5c824576a18633546901ff.png" />
+        <splash src="res/ios/screen/1c3424fbc84a93e9aea619bcdc6301cc.png" />
+        <splash src="res/ios/screen/a5dcbfa974bb4ab91ab4695bde828b38.png" />
+        <splash src="res/ios/screen/a9feceb591df0cef8fd62bc62c194b9a.png" />
+        <splash src="res/ios/screen/c88ce1b745dc190ce4303ccf5f90b0b4.png" />
+        <splash src="res/ios/screen/31b6b33d3a6396ae13a88f4a0004ea7f.png" />
+        <splash src="res/ios/screen/132cb613052c883706137d33e46ba547.png" />
     </platform>
 
     <platform name="winphone">
@@ -78,8 +78,8 @@
         <icon src="res/windows/icon/4376d65c314e2bc0bcda0bec7deafc9c.png" target="Square150x150Logo" />
         <icon src="res/windows/icon/e33c810f0d9d7c78ee1bb16c69582147.png" target="Square310x310Logo" />
 
-        <splash src="res/windows/screen/7be576393d576a35e8a3a197abe7431c.png" target="SplashScreen"/>
-        <splash src="res/windows/screen/0b1735cf76f2f1da4695aeb01f8b885d.png" target="SplashScreenPhone"/>
+        <splash src="res/windows/screen/718a3f10bd3568e2d38822039c692a34.png" target="SplashScreen"/>
+        <splash src="res/windows/screen/8a4a7fcd5541a990d6e395c632fa0429.png" target="SplashScreenPhone"/>
     </platform>
 
     <access origin='*'/>
